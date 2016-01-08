@@ -32,4 +32,4 @@ touch+add: Everytime you type in "git add *insert something*", this gets added t
 
 Part 2
 
-
+Check the file "Gitsite.html" to see all the commits/changes
