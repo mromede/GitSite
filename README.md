@@ -10,7 +10,7 @@ Repository: A repository is a directory where Git will use to "version control" 
 1) In your terminal, enter: cd ..
 -Do this until you are in the right directory where you want to create your NEW project.
 
-2) Enter: mkdir *ENTER THE NAME YOU WISH HER. NO BLANK SPACES!!*
+2) Enter: mkdir *ENTER THE NAME YOU WISH HERE. NO BLANK SPACES!!*
 -This will create/make a brand new, EMPTY directory for you
 
 3) Enter: cd *The directory name you made in step (2)*
